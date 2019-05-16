@@ -3,6 +3,9 @@
 # Environment Files
 .env
 
+# config folder
+/config
+
 # upload
 /upload
 
@@ -12,7 +15,7 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
+.pnp.js4
 
 # testing
 /coverage
